@@ -1,0 +1,126 @@
+(ExpressProject "RP2040MiniBoard"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 S028 (4018475)  [3/9/2022]-[04/20/22]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\rp2040miniboard.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    (OFFPAGELEFT-R
+      (LibraryName
+         "C:\PROGRAMFILES\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName
+         "C:\PROGRAMFILES\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (VCC
+      (LibraryName
+         "C:\PROGRAMFILES\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (Header-4P
+      (FullPartName "Header-4P.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (MicroUSB_10P
+      (FullPartName "MicroUSB_10P.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (Cap
+      (FullPartName "Cap.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\CAPACITOR.OLB")
+      (DeviceIndex "0"))
+    (RES
+      (FullPartName "RES.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\RESISTOR.OLB")
+      (DeviceIndex "0"))
+    (inductor
+      (FullPartName "inductor.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\INDUCTOR.OLB")
+      (DeviceIndex "0"))
+    (JW5250S
+      (FullPartName "JW5250S.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\IC.OLB")
+      (DeviceIndex "0"))
+    (3225_13
+      (FullPartName "3225_13.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (MX25L12835F
+      (FullPartName "MX25L12835F.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\IC.OLB")
+      (DeviceIndex "0"))
+    (rp2040
+      (FullPartName "rp2040.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\MCU.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "FavoriteElla")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "D:\CompetitionItens\ProductionModule\RP2040_MiniBoard\rp2040miniboard.dsn")
+      (Path "Design Resources"
+         "D:\CompetitionItens\ProductionModule\RP2040_MiniBoard\rp2040miniboard.dsn"
+         "ROOT")
+      (Select "Design Resources"
+         "D:\CompetitionItens\ProductionModule\RP2040_MiniBoard\rp2040miniboard.dsn"
+         "ROOT"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 1147"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 35 5 2634 35 1176")
+        (Scroll "0 919")
+        (Zoom "310")
+        (Occurrence "/"))
+      (Path
+         "D:\COMPETITIONITENS\PRODUCTIONMODULE\RP2040_MINIBOARD\RP2040MINIBOARD.DSN")
+      (Schematic "ROOT")
+      (Page "MCU"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 35 5 2634 35 1176")
+        (Scroll "-542 0")
+        (Zoom "155")
+        (Occurrence "/"))
+      (Path
+         "D:\COMPETITIONITENS\PRODUCTIONMODULE\RP2040_MINIBOARD\RP2040MINIBOARD.DSN")
+      (Schematic "ROOT")
+      (Page "PowerTree"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 35 5 2634 35 1176")
+        (Scroll "1 0")
+        (Zoom "298")
+        (Occurrence "/"))
+      (Path
+         "D:\COMPETITIONITENS\PRODUCTIONMODULE\RP2040_MINIBOARD\RP2040MINIBOARD.DSN")
+      (Schematic "ROOT")
+      (Page "Connector"))))
