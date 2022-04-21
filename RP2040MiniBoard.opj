@@ -117,6 +117,18 @@
       (LogFile
          "d:\competitionitens\productionmodule\motordrivebyrp2040\pcb\allegro\eco.txt")))
   (PartMRUSelector
+    (RES
+      (FullPartName "RES.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\RESISTOR.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (inductor
+      (FullPartName "inductor.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\INDUCTOR.OLB")
+      (DeviceIndex "0"))
     (OFFPAGELEFT-R
       (LibraryName
          "C:\PROGRAMFILES\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
@@ -128,10 +140,6 @@
     (Header-6P
       (FullPartName "Header-6P.Normal")
       (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\CONNECTOR.OLB")
-      (DeviceIndex "0"))
-    (RES
-      (FullPartName "RES.Normal")
-      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\RESISTOR.OLB")
       (DeviceIndex "0"))
     (Button_2P
       (FullPartName "Button_2P.Normal")
@@ -156,10 +164,6 @@
     (Cap
       (FullPartName "Cap.Normal")
       (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\CAPACITOR.OLB")
-      (DeviceIndex "0"))
-    (inductor
-      (FullPartName "inductor.Normal")
-      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\INDUCTOR.OLB")
       (DeviceIndex "0"))
     (JW5250S
       (FullPartName "JW5250S.Normal")
@@ -190,8 +194,7 @@
       (Path "Outputs")
       (Path "Logs")
       (Select "Design Resources"
-         "D:\CompetitionItens\ProductionModule\RP2040_MiniBoard\rp2040miniboard.dsn"
-         "ROOT" "MCU"))
+         "D:\CompetitionItens\ProductionModule\RP2040_MiniBoard\rp2040miniboard.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -202,7 +205,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 35 5 2240 35 985")
-        (Scroll "594 867")
+        (Scroll "0 584")
         (Zoom "184")
         (Occurrence "/"))
       (Path
