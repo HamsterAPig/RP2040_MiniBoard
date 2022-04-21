@@ -192,9 +192,7 @@
          "ROOT")
       (Path "Layout")
       (Path "Outputs")
-      (Path "Logs")
-      (Select "Design Resources"
-         "D:\CompetitionItens\ProductionModule\RP2040_MiniBoard\rp2040miniboard.dsn"))
+      (Path "Logs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -205,8 +203,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 35 5 2240 35 985")
-        (Scroll "0 584")
-        (Zoom "184")
+        (Scroll "937 2663")
+        (Zoom "368")
         (Occurrence "/"))
       (Path
          "D:\COMPETITIONITENS\PRODUCTIONMODULE\RP2040_MINIBOARD\RP2040MINIBOARD.DSN")
