@@ -189,11 +189,6 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Path "Design Resources"
-         "D:\CompetitionItens\ProductionModule\RP2040_MiniBoard\rp2040miniboard.dsn")
-      (Path "Design Resources"
-         "D:\CompetitionItens\ProductionModule\RP2040_MiniBoard\rp2040miniboard.dsn"
-         "ROOT")
       (Path "Layout")
       (Path "Outputs")
       (Path "Logs")
@@ -208,7 +203,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 35 5 2240 35 985")
-        (Scroll "0 1035")
+        (Scroll "1202 0")
         (Zoom "224")
         (Occurrence "/"))
       (Path
