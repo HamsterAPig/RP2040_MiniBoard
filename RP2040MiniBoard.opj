@@ -119,8 +119,16 @@
     (File "..\motordrivebyrp2040\pcb\allegro\swp.log"
       (Type "Log File")
       (LogFile
-         "D:\CompetitionItens\ProductionModule\motordrivebyrp2040\pcb\allegro\swp.log")))
+         "D:\CompetitionItens\ProductionModule\motordrivebyrp2040\pcb\allegro\swp.log"))
+    (File "..\motordrivebyrp2040\pcb\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile
+         "d:\competitionitens\productionmodule\motordrivebyrp2040\pcb\allegro\genfeed.log")))
   (PartMRUSelector
+    (Header-14P
+      (FullPartName "Header-14P.Normal")
+      (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\CONNECTOR.OLB")
+      (DeviceIndex "0"))
     (RES
       (FullPartName "RES.Normal")
       (LibraryName "D:\PROGRAMDATA\CADENCE\CADENCE_LIB\SYMBOL\RESISTOR.OLB")
@@ -191,8 +199,7 @@
       (Path "Design Resources")
       (Path "Layout")
       (Path "Outputs")
-      (Path "Logs")
-      (Select "Design Resources"))
+      (Path "Logs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -203,7 +210,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 35 5 2240 35 985")
-        (Scroll "1202 0")
+        (Scroll "960 1126")
         (Zoom "224")
         (Occurrence "/"))
       (Path
