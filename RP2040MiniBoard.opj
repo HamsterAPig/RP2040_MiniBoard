@@ -115,7 +115,11 @@
     (File "..\motordrivebyrp2040\pcb\allegro\eco.txt"
       (Type "Log File")
       (LogFile
-         "d:\competitionitens\productionmodule\motordrivebyrp2040\pcb\allegro\eco.txt")))
+         "d:\competitionitens\productionmodule\motordrivebyrp2040\pcb\allegro\eco.txt"))
+    (File "..\motordrivebyrp2040\pcb\allegro\swp.log"
+      (Type "Log File")
+      (LogFile
+         "D:\CompetitionItens\ProductionModule\motordrivebyrp2040\pcb\allegro\swp.log")))
   (PartMRUSelector
     (RES
       (FullPartName "RES.Normal")
@@ -192,7 +196,8 @@
          "ROOT")
       (Path "Layout")
       (Path "Outputs")
-      (Path "Logs"))
+      (Path "Logs")
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -203,8 +208,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 35 5 2240 35 985")
-        (Scroll "937 2663")
-        (Zoom "368")
+        (Scroll "822 420")
+        (Zoom "200")
         (Occurrence "/"))
       (Path
          "D:\COMPETITIONITENS\PRODUCTIONMODULE\RP2040_MINIBOARD\RP2040MINIBOARD.DSN")
