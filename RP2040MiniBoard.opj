@@ -1,6 +1,6 @@
 (ExpressProject "RP2040MiniBoard"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S028 (4018475)  [3/9/2022]-[04/20/22]")
+  (SoftwareVersion "17.4-2019 S028 (4018475)  [3/9/2022]-[04/21/22]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -68,7 +68,23 @@
     (DRC_Run_Custom_Rules "FALSE")
     (DRC_Report_File
        "D:\COMPETITIONITENS\PRODUCTIONMODULE\RP2040_MINIBOARD\RP2040MINIBOARD.DRC")
-    ("Allegro Netlist Output Board File" ".\allegro\rp2040miniboard.brd"))
+    ("Allegro Netlist Output Board File" ".\allegro\rp2040miniboard.brd")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "1")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80"))
   (Folder "Layout"
     (File ".\allegro\rp2040miniboard.brd"
       (Type "Board File")
@@ -186,10 +202,11 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 35 5 2240 35 985")
-        (Scroll "8361 59")
-        (Zoom "736")
+        (Scroll "594 867")
+        (Zoom "184")
         (Occurrence "/"))
       (Path
          "D:\COMPETITIONITENS\PRODUCTIONMODULE\RP2040_MINIBOARD\RP2040MINIBOARD.DSN")
       (Schematic "ROOT")
-      (Page "MCU"))))
+      (Page "MCU")))
+  (ISPCBBASICLICENSE "false"))
