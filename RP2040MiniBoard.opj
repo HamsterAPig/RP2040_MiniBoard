@@ -208,8 +208,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 35 5 2240 35 985")
-        (Scroll "822 420")
-        (Zoom "200")
+        (Scroll "0 1035")
+        (Zoom "224")
         (Occurrence "/"))
       (Path
          "D:\COMPETITIONITENS\PRODUCTIONMODULE\RP2040_MINIBOARD\RP2040MINIBOARD.DSN")
